@@ -63,7 +63,7 @@ def crosses_for_guides(image, cross_len, cross_color):
 register(
           "python_fu_crosses_for_guides",
           "Add crosses into guides intersections",
-          "Crossed are created on a new layer",
+          "Crosses are created on a new layer",
           "wil_low",
           "wil_low",
           "2019.06.02",
